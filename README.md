@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have done MSc. in Data Anaytics<br>I'm looking to collaborate and help on on PowerBI Development, <br>Fabric Analytics and Fabric Data Engineering<br>I can help with projects in developing end to end analytics solutions<br>I have experience working with ML models and AI Development<br>I am always curious to learn, develop and improve. 
+I have done MSc. in Data Anaytics<br>I'm looking to collaborate and help on on PowerBI Development, <br>Fabric Analytics and Fabric Data Engineering<br>I can help with projects in developing end to end analytics solutions<br>I have experience working with ML models and AI Development<br> I am always curious to learn, develop and improve. 
 
 
 ## 🌐 Socials:
