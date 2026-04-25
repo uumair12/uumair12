@@ -1,5 +1,14 @@
 # 💫 About Me:
-I have done MSc. in Data Anaytics<br>I'm looking to collaborate and help on on PowerBI Development, <br>Fabric Analytics and Fabric Data Engineering<br>I can help with projects in developing end to end analytics solutions<br>I have experience working with ML models and AI Development<br> I am always curious to learn, develop and improve. 
+MSc. in Data Analytics | Power BI Developer · Fabric Analytics & Data Engineering · End-to-End Analytics Solutions
+I specialize in building end-to-end analytics solutions with a focus on Microsoft Fabric, Power BI, and Data Engineering. I enjoy collaborating on projects that turn raw data into meaningful insights.
+My experience spans ML model development and AI integration, and I'm always exploring new tools and techniques to sharpen my craft.
+Open to collaborations in:
+
+📊 Power BI Development
+🏗️ Microsoft Fabric Analytics & Data Engineering
+🤖 ML & AI Development
+
+Curious by nature. Always learning. Always building. 
 
 
 ## 🌐 Socials:
