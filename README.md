@@ -1,5 +1,5 @@
 # 💫 About Me:
-MSc. in Data Analytics | Power BI Development · Fabric Analytics & Data Engineering · End-to-End Analytics Solutions
+MSc. in Data Analytics | Power BI Development · Fabric Analytics & Data Engineering · End-to-End Analytics Solutions, 
 I specialize in building end-to-end analytics solutions with a focus on Microsoft Fabric, Databricks, dbt, Power BI, and Data Engineering. I enjoy collaborating on projects that turn raw data into meaningful insights.
 My experience spans on ML model development and AI integration as well, and I'm always exploring new tools and techniques to sharpen my craft.
 Open to collaborations in:
